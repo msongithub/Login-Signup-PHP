@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: rgb(37, 35, 35);
+  /* background-size: cover; */
+}
+.login-form h4 {
+  color: rgb(240, 29, 29);
+}
+.login-form {
+  width: 350px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: #fff;
+}
+.login-form h1 {
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+}
+.login-form p {
+  font-size: 20px;
+  margin: 15px 0;
+}
+.login-form input {
+  font-size: 16px;
+  width: 100%;
+  padding: 15px 10px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+}
+.login-form #login_submit {
+  font-size: 16px;
+  width: 45%;
+  padding: 15px 10px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  margin-top: 21px;
+  cursor: pointer;
+}
+.login-form #login_submit:hover {
+  background: #84b;
+  color: #fff;
+}
+.login-form #register_page {
+  font-size: 16px;
+  width: 50%;
+  padding: 15px 29px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  color: #000;
+  background: #fff;
+  text-decoration: none;
+}
+
+.signup-form {
+  width: 350px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: #fff;
+}
+.signup-form h1 {
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+}
+.signup-form h3 {
+  color: greenyellow;
+}
+.signup-form h3 a {
+  color: goldenrod;
+  text-decoration: none;
+}
+.signup-form h4 {
+  color: goldenrod !important;
+}
+.signup-form p {
+  font-size: 20px;
+  margin: 9px 0;
+}
+.signup-form input {
+  font-size: 16px;
+  width: 100%;
+  padding: 15px 10px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+}
+.signup-form #signup_submit {
+  font-size: 16px;
+  width: 45%;
+  padding: 15px 10px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  margin-top: 21px;
+  cursor: pointer;
+}
+.signup-form #signup_submit:hover {
+  background: #84b;
+  color: #fff;
+}
+.signup-form #login_page {
+  font-size: 16px;
+  width: 50%;
+  padding: 15px 29px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  color: #000;
+  background: #fff;
+  text-decoration: none;
+}
+
+.user-container {
+  width: 350px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: #fff;
+}
+.user-container h1 {
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+}
+.user-container h3 {
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+}
+.user-container h3 a {
+  color: greenyellow;
+  text-decoration: none;
+}
+.user-container i {
+  color: greenyellow !important;
+}
+
+/* informationtechaa@gmail.com */
